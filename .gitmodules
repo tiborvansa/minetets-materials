@@ -1,0 +1,15 @@
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials.git
+[submodule "cement"]
+	path = cement
+	url = https://gitlab.com/4w/cement.git
+[submodule "stained_glass"]
+	path = stained_glass
+	url = https://github.com/minetest-mods/stained_glass.git
+[submodule "unifiedbricks"]
+	path = unifiedbricks
+	url = https://github.com/minetest-mods/unifiedbricks.git
