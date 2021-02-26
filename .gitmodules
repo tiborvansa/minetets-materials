@@ -1,6 +1,3 @@
-[submodule "moreblocks"]
-	path = moreblocks
-	url = https://github.com/minetest-mods/moreblocks.git
 [submodule "basic_materials"]
 	path = basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
