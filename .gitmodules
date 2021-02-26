@@ -1,3 +1,4 @@
+
 [submodule "basic_materials"]
 	path = basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
@@ -10,3 +11,6 @@
 [submodule "unifiedbricks"]
 	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
